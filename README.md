@@ -4,4 +4,4 @@ open with vscode
 use liveserver and goto live
 or
 open this link
-https://kuldeepprakash0.github.io/K-coder-blog/project-bootstrap/
+https://kuldeepprakash0.github.io/K-coder-blog/project-bootstrap/index.html
